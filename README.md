@@ -57,7 +57,7 @@ python3 bot.py
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://t.me/HackfreaksSupport)
+- Please report any issues to the support group: [@HackfreaksSupport](https://t.me/HackfreaksSupport)
 
 
 ## learning
@@ -73,5 +73,5 @@ check out the [helper_funcs](https://github.com/swatv3nub/MyTelegramRoBot/tree/m
   - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
-- Thanks to:
+- Actual Dev (Full Credits):
   - [Spechide](https://t.me/SpEcHiDe)
