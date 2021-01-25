@@ -7,9 +7,9 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+- can be found on [Telegram](https://telegram.dog/HackfreaksScrapperRobot)
 
-🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🙄 [@HackfreaksScrapperRobot](https://telegram.dog/HackfreaksScrapperRobot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## installing
@@ -23,12 +23,12 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://GitHub.com/SpEcHiDe/MyTelegramOrgRoBot.git
+git clone https://github.com/swatv3nub/MyTelegramRoBot.git
 ```
 
 - change the directory.
 ```sh
-cd MyTelegramOrgRoBot
+cd MyTelegramRoBot
 ```
 
 - create a virtual environment.
@@ -53,19 +53,19 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [Project Hackfreaks](https://t.me/ProjectHackfreaks)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
+- Please report any issues to the support group: [@SpEcHlDe](https://t.me/HackfreaksSupport)
 
 
 ## learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/swatv3nub/MyTelegramRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
+[AGPLv3](https://github.com/swatv3nub/MyTelegramRoBot/tree/master/LICENSE)
 
 ## credits
 
@@ -74,4 +74,4 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+  - [Spechide](https://t.me/SpEcHiDe)
