@@ -9,7 +9,7 @@ now please send the Telegram code that you received from Telegram!
 
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/swatv3nub/MyTelegramRoBot and clicking on the "Deploy in Heroku" Button
+by opening https://github.com/swatv3nub/ScrapperRobot and clicking on the "Deploy in Heroku" Button
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
