@@ -23,12 +23,12 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://github.com/swatv3nub/MyTelegramRoBot.git
+git clone https://github.com/swatv3nub/ScrapperRobot.git
 ```
 
 - change the directory.
 ```sh
-cd MyTelegramRoBot
+cd ScrapperRobot
 ```
 
 - create a virtual environment.
@@ -62,10 +62,10 @@ python3 bot.py
 
 ## learning
 
-check out the [helper_funcs](https://github.com/swatv3nub/MyTelegramRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/swatv3nub/ScrapperRobot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/swatv3nub/MyTelegramRoBot/tree/master/LICENSE)
+[AGPLv3](https://github.com/swatv3nub/ScrapperRobot/tree/master/LICENSE)
 
 ## credits
 
