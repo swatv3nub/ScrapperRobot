@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/swatv3nub/ScrapperRobot",
   "success_url": "https://telegram.dog/SpEcHlDe",
-  "website": "https://github.com/swatv3nub/MyTelegramRoBot",
+  "website": "https://github.com/swatv3nub/ScrapperRobot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
